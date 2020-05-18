@@ -1,0 +1,11 @@
+space complexity
+
+
+#O(n) time. 0(1)space
+def o_1_space(n):
+
+    
+    for i in range(n):
+        return (n)
+
+        
